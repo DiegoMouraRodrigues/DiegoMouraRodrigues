@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ My name is Diego, I am a front end design developer.<br>🔭 I am currently studying systems development and am preparing to enter the job market.<br><br><br>
+⚡ My name is Diego Moura, I am a front end design developer.<br>🔭 I am currently studying systems development and am preparing to enter the job market.<br><br><br>
 
 
 ## 🌐 Socials:
